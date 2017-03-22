@@ -9757,7 +9757,7 @@ body {
                 backface-visibility: hidden; }
         /* line 124, assets/sass/layout/_layout.scss */
         .hexagons_main_div #categories li div:hover h1 {
-          bottom: 45%;
+          bottom: 43%;
           padding-bottom: 10%; }
         /* line 128, assets/sass/layout/_layout.scss */
         .hexagons_main_div #categories li div:hover p {
